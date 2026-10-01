@@ -7,3 +7,30 @@ secrets.json
 
 *.key
 *.pem
+
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# Environment / API Key
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
